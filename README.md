@@ -1,3 +1,3 @@
 # IPTV_Channel
 
-Some channel maybe die, please report channel if die or wrong.
+Some channel maybe die, please report if die or wrong.
